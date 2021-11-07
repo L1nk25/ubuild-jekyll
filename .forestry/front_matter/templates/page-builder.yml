@@ -34,4 +34,5 @@ fields:
 pages:
 - "./homepage-copy-1.md"
 - "./homepage-copy.md"
+- "./homepage.md"
 - index.md
