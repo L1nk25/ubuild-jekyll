@@ -1,4 +1,16 @@
 ---
 label: provas
 hide_body: false
-fields: []
+fields:
+- name: asafasf
+  type: blocks
+  label: asafasf
+  template_types:
+  - detail-content
+  - content-feature
+  - content-feature
+  - detail-content
+  config:
+    min: 
+    max: 
+  description: afsgfdhdafhadffhxc
