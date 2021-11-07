@@ -75,6 +75,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+menu:
+  main:
+    weight: 1
+    title: golia
 published: false
 
 ---
